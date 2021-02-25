@@ -1,0 +1,9 @@
+/media/meme/Projects/SATClient/SATClient/bin/Debug/SATClient.exe
+/media/meme/Projects/SATClient/SATClient/bin/Debug/SATClient.pdb
+/media/meme/Projects/SATClient/SATClient/obj/x86/Debug/SATClient.csprojAssemblyReference.cache
+/media/meme/Projects/SATClient/SATClient/obj/x86/Debug/SATClient.csproj.CoreCompileInputs.cache
+/media/meme/Projects/SATClient/SATClient/obj/x86/Debug/SATClient.exe
+/media/meme/Projects/SATClient/SATClient/obj/x86/Debug/SATClient.pdb
+/media/meme/Projects/SATClient/SATClient/bin/Debug/SimpleTCP.dll
+/media/meme/Projects/SATClient/SATClient/obj/x86/Debug/SATClient.csproj.CopyComplete
+/media/meme/Projects/SATClient/SATClient/bin/Debug/Alba.CsConsoleFormat.dll

@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{51B23F30-1157-4C6C-922D-14DEB7BA2269}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SATClient/Program.cs">
+    <Files>
+      <File FileName="SATClient/Program.cs" Line="424" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SATClient PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
